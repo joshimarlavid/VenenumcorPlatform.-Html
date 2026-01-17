@@ -1,0 +1,8 @@
+{
+  "name": "Gemini OmniReader",
+  "description": "An advanced multimodal reader and creative studio powered by Gemini. Features intelligent text-to-speech for documents, real-time voice conversation, image generation, and audio transcription.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera"
+  ]
+}
